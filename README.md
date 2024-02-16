@@ -5,4 +5,4 @@
 Звезды притягивая друг друга,
 перемещаются, подчиняясь закону всемирного тяготения
 
-Демо: galaxy.mp4 (https://github.com/wwwstepan/Stars/blob/main/galaxy.mp4)
+Демо: galaxy.mp4 (https://github.com/wwwstepan/Stars/raw/master/galaxy.mp4)
